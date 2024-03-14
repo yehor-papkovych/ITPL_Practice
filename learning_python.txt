@@ -1,0 +1,4 @@
+In Python you can make lists, dictionaries, tuples and lists.
+In Python you can make for-loops and while-loops.
+In Python you can read files and write there.
+In Python you can use if-else conditions.
