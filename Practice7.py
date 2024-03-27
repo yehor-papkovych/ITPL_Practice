@@ -60,6 +60,7 @@ class Employee():
         self.id_number = id_number
         self.department = department
 
+
     def display(self):
         print("This is {}. Their id number is {}. They work at {} department.".format(self.name, self.id_number, self.department))
 
